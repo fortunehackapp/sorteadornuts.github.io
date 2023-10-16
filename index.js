@@ -3,7 +3,7 @@ function sortear() {
     const elementoResultado = document.createElement('div')
     elementoResultado.classList.add('result-value')
 
-    elementoResultado.innerText = '16'
+    elementoResultado.innerText = '11'
 
     setTimeout(() => {
 
